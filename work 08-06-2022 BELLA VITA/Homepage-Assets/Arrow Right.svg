@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-test="" class="icon is-small  is-next " focusable="false" viewBox="0 0 1 1" aria-hidden="true" xmlns:xlink="http://www.w3.org/1999/xlink" width="10"  height="10" ><defs><symbol id="next" viewBox="0 0 6 10"><path d="M.707.5L0 1.207l3.792 3.794-3.79 3.79.708.707 4.497-4.497z" fill-rule="evenodd"></path></symbol></defs>
+  <use xlink:href="#next" stroke="#767676" fill="#767676" stroke-width="0px"></use>
+</svg>
